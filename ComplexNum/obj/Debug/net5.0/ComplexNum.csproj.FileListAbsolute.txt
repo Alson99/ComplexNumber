@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\ComplexNum\ComplexNum\bin\Debug\net5.0\ComplexNum.exe
+C:\Users\user\source\repos\ComplexNum\ComplexNum\bin\Debug\net5.0\ComplexNum.deps.json
+C:\Users\user\source\repos\ComplexNum\ComplexNum\bin\Debug\net5.0\ComplexNum.runtimeconfig.json
+C:\Users\user\source\repos\ComplexNum\ComplexNum\bin\Debug\net5.0\ComplexNum.runtimeconfig.dev.json
+C:\Users\user\source\repos\ComplexNum\ComplexNum\bin\Debug\net5.0\ComplexNum.dll
+C:\Users\user\source\repos\ComplexNum\ComplexNum\bin\Debug\net5.0\ref\ComplexNum.dll
+C:\Users\user\source\repos\ComplexNum\ComplexNum\bin\Debug\net5.0\ComplexNum.pdb
+C:\Users\user\source\repos\ComplexNum\ComplexNum\obj\Debug\net5.0\ComplexNum.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\ComplexNum\ComplexNum\obj\Debug\net5.0\ComplexNum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\ComplexNum\ComplexNum\obj\Debug\net5.0\ComplexNum.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\ComplexNum\ComplexNum\obj\Debug\net5.0\ComplexNum.AssemblyInfo.cs
+C:\Users\user\source\repos\ComplexNum\ComplexNum\obj\Debug\net5.0\ComplexNum.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ComplexNum\ComplexNum\obj\Debug\net5.0\ComplexNum.dll
+C:\Users\user\source\repos\ComplexNum\ComplexNum\obj\Debug\net5.0\ref\ComplexNum.dll
+C:\Users\user\source\repos\ComplexNum\ComplexNum\obj\Debug\net5.0\ComplexNum.pdb
+C:\Users\user\source\repos\ComplexNum\ComplexNum\obj\Debug\net5.0\ComplexNum.genruntimeconfig.cache
